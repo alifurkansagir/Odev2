@@ -1,0 +1,7 @@
+
+Array (dizi), aynı türde birden fazla veriyi tek bir değişken altında saklamak için kullanılan veri yapısıdır. Diziler bellekte ardışık olarak depolanır ve indeksler aracılığıyla elemanlara erişim sağlanır.
+
+Dizi Özellikleri
+Sabit Boyutlu: Tanımlandığında boyutu belirlenir ve değiştirilemez.
+Aynı Türde Veri Saklar: İçindeki tüm elemanlar aynı veri tipinde olur.
+İndeksleme Kullanılır: İlk eleman 0. indeks ile başlar.
